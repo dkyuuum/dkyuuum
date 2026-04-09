@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dkyuuum&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/dkyuuum?pet-id=694784434595626516"
-    width="700"
-    height="150"
+    width="500"
+    height="50"
   />
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
