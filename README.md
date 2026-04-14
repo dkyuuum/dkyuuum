@@ -1,8 +1,2 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /> -->
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dkyuuum" width="500" height="250"/>
-</a>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
-
 
 
