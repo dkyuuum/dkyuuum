@@ -4,9 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello%20World!%20I'm%20Kyumin.&fontSize=50" />
 
 <!-- <div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dkyuuum.dkyuuum&"  />
-</div> -->
-<!-- <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C300&width=435&lines=Hello!+I'm+Kyumin+Park." alt="Typing SVG" /></a>
 </div> -->
 
@@ -17,6 +14,9 @@
 ###
 
 <p align="left">안녕하세요. 사회에 도움을 주고 싶은 개발자 박규민입니다.</p>
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dkyuuum.dkyuuum&"  />
+</div>
 
 ###
 
