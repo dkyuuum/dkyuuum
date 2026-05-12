@@ -14,9 +14,9 @@
 ###
 
 <p align="left">안녕하세요. 사회에 도움을 주고 싶은 개발자 박규민입니다.</p>
-<div>
+<!-- <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dkyuuum.dkyuuum&"  />
-</div>
+</div> -->
 
 ###
 
